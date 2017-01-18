@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://www.purebasic.com/namespace" version="1.0" creator="PureBasic 5.51 (Windows - x64)">
+  <section name="config">
+    <options closefiles="1" openmode="0" name="Quiz Master"/>
+  </section>
+  <section name="data">
+    <explorer view="..\..\Program Files (x86)\PureBasic\Examples\" pattern="0"/>
+    <log show="1"/>
+    <lastopen date="2017-01-18 07:22" user="DaveSandy" host="MEDIAPC"/>
+  </section>
+  <section name="files">
+    <file name="AddEdit.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="ad491591230bf702c7bd3fdf668a5904"/>
+    </file>
+    <file name="ChooseQuestions.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="64098f1ad25b7a9a1ba69243a63019e5"/>
+    </file>
+    <file name="DCTool.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="5f9dfac116ce57c467870a4af5025a12"/>
+    </file>
+    <file name="WinMain.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="ef3d1abde8c947409081ab8e371b6eab"/>
+    </file>
+  </section>
+  <section name="targets">
+    <target name="Default Target" enabled="1" default="1">
+      <inputfile value="WinMain.pb"/>
+      <outputfile value="Quiz Master.exe"/>
+      <options xpskin="1" onerror="1" debug="1"/>
+    </target>
+  </section>
+</project>
